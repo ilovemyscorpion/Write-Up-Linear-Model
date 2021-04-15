@@ -63,6 +63,7 @@ basicNN + geom_point() + geom_smooth(method=lm)
 
 The equation for SIMS explained by ARM is;
 SIMS= -4.1 + .0545*ARM
+The scatter plot shows a positive relationship between SIMS & ARM.
 
 # Model2
 ```{r}
@@ -96,6 +97,7 @@ basicNN + geom_point() + geom_smooth(method=lm)
 
 The equation for SIMS explained by GRIP is;
 SIMS= -4.8 + .045*GRIP
+The scatter plot shows a positive relationship between SIMS & GRIP; the adjusted R square is 0.405 with a residual standard error of 1.295 that is the standard deviation of the normal spread of errors of any error along the line.
 
 # Model3
 

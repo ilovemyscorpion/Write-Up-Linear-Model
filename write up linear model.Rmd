@@ -1,5 +1,5 @@
 ---
-title: "linaermodel"
+title: "Linear Model"
 author: "Amy Estrada"
 date: "3/23/2021"
 output: 

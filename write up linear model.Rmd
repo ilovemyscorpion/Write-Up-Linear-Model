@@ -91,7 +91,7 @@ predict(model.2,newdata,interval="prediction")
 ### now add the model fit to our plot
   
 ```{r}
-basicNN + geom_point() + geom_smooth(method=lm)
+basicGG + geom_point() + geom_smooth(method=lm)
 ``` 
 
 
